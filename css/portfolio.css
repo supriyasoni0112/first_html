@@ -8,7 +8,7 @@ body {background:whitesmoke;
 .headings{background: url(../images/portfoliobg.jpg) center right ;
            text-align: center; color: rgb(85, 84, 84);
 }
-#profile{border: solid olive 2px; margin-top: 10px; margin-left: 170px;}
+#profile{border: solid olive 2px; margin-top: 10px; margin-left: 150px;}
 
 .ido{border:solid 12px olive;text-align: center;width:25%;
      margin-top: 15px; box-sizing: border-box; padding: 25px;
